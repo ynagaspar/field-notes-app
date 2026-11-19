@@ -1,3 +1,6 @@
+Name: Reina G. Tamiao
+C&Y: BSINTE 2A
+
 # Field Notes
 
 A standalone Flutter app (no FlutterFlow needed) for recording outdoor observations.
