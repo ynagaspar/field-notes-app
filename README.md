@@ -1,5 +1,6 @@
-Name: Reina G. Tamiao
-C&Y: BSINTE 2A
+# Name: Reina G. Tamiao
+
+# C&Y: BSINTE 2A
 
 # Field Notes
 
